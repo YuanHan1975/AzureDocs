@@ -28,6 +28,7 @@
 
   - StorageV1缺少分层等属性
   - StorageV1和BlobStorage可升级到StorageV2
+  - 只有磁盘（Page Blob）有标准和高级的区别
 
   
 
